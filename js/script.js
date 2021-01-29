@@ -35,5 +35,4 @@ function calculateTotal() {
     total.innerText = phoneTotal + caseTotal;
 }
 
-
-
+// TEST
